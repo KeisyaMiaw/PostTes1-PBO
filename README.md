@@ -29,7 +29,7 @@ Pada menu awal, user kos akan ditampilkan dengan 5 menu.
 
 <img width="364" height="131" alt="image" src="https://github.com/user-attachments/assets/26e56e82-79d0-42ca-9de0-e85f3f525127" />
 
-Disini admin memilih menu 1 untuk menambahkan data pemilik kos, maka user harus menginput no kamar, nama, status kamar, no telp dan lantai kamar.
+Disini user memilih menu 1 untuk menambahkan data pemilik kos, maka user harus menginput no kamar, nama, status kamar, no telp dan lantai kamar.
 
 <img width="600" height="83" alt="image" src="https://github.com/user-attachments/assets/75aadf0d-b556-4832-90ae-86c70429ca0d" />
 
